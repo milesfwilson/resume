@@ -1,0 +1,62 @@
+body {
+  background-color: #413539;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.card img {
+  width:200%;
+}
+
+.dark {
+  background-color: #202123;
+}
+
+.light {
+  background-color: white;
+}
+
+.text-light {
+  color: white;
+}
+
+.text-dark {
+  color:#202123;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.d-flex.justify-content-center {
+  justify-content: center;
+}
+
+.d-flex.justify-content-center.align-items-center {
+  align-items: center;
+}
+
+.column {
+  flex-direction: column;
+}
+
+.card {
+  width: 300px;
+  height: 400px;
+}
+
+.headline {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 200%;
+}
+
+.border-top {
+  border-top: 2px solid #202123;
+}
+
+.border-bottom {
+  border-bottom: 2px solid #202123;
+}
